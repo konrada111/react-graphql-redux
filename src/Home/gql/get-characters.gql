@@ -1,0 +1,8 @@
+query getCharacters($data: Characters) {
+  characters(data: $data) {
+    results {
+      id
+      name
+    }
+  }
+}
