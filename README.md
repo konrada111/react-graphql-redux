@@ -1,3 +1,13 @@
+## Technologies I used in this project:  
+  - React 
+  - Typescript
+  - graphQL
+  - React Router v6
+  - Storybook 
+  - React Testing Library
+  - Apollo
+  - Tailwind css
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
