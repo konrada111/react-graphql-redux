@@ -1,7 +1,7 @@
 ## Technologies I used in this project:  
   - React 
   - Typescript
-  - graphQL
+  - GraphQL
   - React Router v6
   - Storybook 
   - React Testing Library
